@@ -1,2 +1,2 @@
 # Parking-Spot-Recognition
-Program using computer vision to recognize vacant and occupied parking spots
+Software for that utilizes computer vision to recognize vacant and occupied parking spots
